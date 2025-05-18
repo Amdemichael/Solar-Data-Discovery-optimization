@@ -10,10 +10,6 @@ data/
 *.csv
 *.xlsx
 
-# Notebooks
-.ipynb_checkpoints/
-*.ipynb
-
 # IDE
 .vscode/
 .idea/
